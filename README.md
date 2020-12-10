@@ -2,12 +2,12 @@
 
 ## Libraries used for this project ##
 
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import project_tests as t
-import pickle
-import seaborn as sns
+-import pandas as pd
+-import numpy as np
+-import matplotlib.pyplot as plt
+-import project_tests as t
+-import pickle
+-import seaborn as sns
 
 ## Table of content ##
 - Exploratory Data Analysis
